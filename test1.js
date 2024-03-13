@@ -1,3 +1,1 @@
-console.log('test')
-// ㅋㅋㅋ
-console.lo()
+// 다 지워버리기
