@@ -1,1 +1,1 @@
-// dev > test2
+// squash and merge test > test2
